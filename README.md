@@ -12,7 +12,7 @@ To learn more, see the full documentation at [https://heatflowworld.readthedocs.
 
 ## Acknowledgements
 
-This codebase is maintained by the [German Research Centre for Geosciences (GFZ)](https://www.gfz-potsdam.de/en/) as part of the [World Heat Flow Database Project](https://www.heatflow.world). This project is funded by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de) under the project number [491795283](https://gepris-extern.dfg.de/gepris/projekt/491795283).
+This codebase is maintained by the [German Research Centre for Geosciences (GFZ)](https://www.gfz.de/en/) as part of the [World Heat Flow Database Project](https://www.heatflow.world). This project is funded by the [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de) under the project number [491795283](https://gepris-extern.dfg.de/gepris/projekt/491795283).
 
 We extend our gratitude to all individuals, organizations, and institutions who have contributed to and supported this project. For a complete list of contributors, see [CONTRIBUTORS.md](./CONTRIBUTORS.md).
 
@@ -20,7 +20,7 @@ We extend our gratitude to all individuals, organizations, and institutions who 
 
 [![World Heat Flow Database Project](./assets/img/brand/logo.png)](https://www.heatflow.world)
 [![Deutsche Forschungsgemeinschaft](./assets/img/brand/DFG.gif)](https://www.dfg.de)
-[![GFZ](./assets/img/brand/GFZ_logo.png)](https://www.gfz-potsdam.de)
+[![GFZ](./assets/img/brand/GFZ_logo.png)](https://www.gfz.de) ## https://www.gfz.de/en/ ##Change the logo!
 [![TUD](./assets/img/brand/TUD_Logo_HKS41_57.png)](https://tu-dresden.de/)
 
 ## Fork
